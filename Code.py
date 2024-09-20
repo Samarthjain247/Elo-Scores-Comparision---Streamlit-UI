@@ -5,7 +5,7 @@ import pandas as pd
 from random import shuffle, choice
 import csv
 
-# Define checkpoints
+# Define checkpoints how many you want to compare
 checkpoints = ['ckpt1', 'ckpt2', 'ckpt3', 'ckpt4', 'ckpt5', 'ckpt6', 'ckpt7', 'ckpt8']
 
 # Directory path where all cases folders are located
