@@ -9,7 +9,7 @@ import csv
 
 # Define checkpoints how many you want to compare
 checkpoints = ['ckpt1', 'ckpt2', 'ckpt3', 'ckpt4', 'ckpt5', 'ckpt6', 'ckpt7', 'ckpt8']
-
+# no. of checkpoint
 # Directory path where all cases folders are located
 base_folder = '/Users/samarthjain/Documents/ALL_Cases'
 
